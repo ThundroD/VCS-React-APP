@@ -21,22 +21,7 @@ CD into ```vsc-react-app``` and npm intall then ```npm start``` and the react ap
 
 `http://localhost:3001/get-user/:name`
 
-### Response
 
-```
-eg:
-[
-  {
-    githubinfo:[{information: info}]
-  },
-  {
-    gitlabinfo:[{information: info}]
-  },
-  {
-    bitbucketinfo:[{information: info}]
-  },
-]
-```
 
 ## GitHub Repos
 
@@ -46,19 +31,6 @@ eg:
 
 `http://localhost:3001/user/github/repo/:name`
 
-### Response
-
-```
-eg:
-[
-  {
-    repoName:"name"
-    repoDesc:"description"
-    createdOn:"dd-mm-yy"
-    commitMsg:[msg1,msg2,msg3,msg4,msg5]
-  }
-]
-```
 
 ## GitLab Repos
 
@@ -68,19 +40,6 @@ eg:
 
 `http://localhost:3001/user/gitlab/repo/:name`
 
-### Response
-
-```
-eg:
-[
-  {
-    repoName:"name"
-    repoDesc:"description"
-    createdOn:"dd-mm-yy"
-    commitMsg:[msg1,msg2,msg3,msg4,msg5]
-  }
-]
-```
 
 ## BitBucket Repos
 
@@ -90,17 +49,6 @@ eg:
 
 `http://localhost:3001/user/bitbucket/repo/:name`
 
-### Response
 
-```
-eg:
-[
-  {
-    repoName:"name"
-    createdOn:"dd-mm-yy"
-    commitMsg:[msg1,msg2,msg3,msg4,msg5]
-  }
-]
-```
 
 
