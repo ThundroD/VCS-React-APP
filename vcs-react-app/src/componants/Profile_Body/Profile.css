@@ -1,0 +1,54 @@
+
+.profile-div{
+    text-align: center;
+    text-align: left;
+    padding: 20px;
+    border: 2px solid #00e1ff81;
+    border-top: 0px;
+    border-radius: 0px 0px 10px 10px;
+    color: aliceblue;
+}
+
+.pro-pic-div{
+    text-align: center;
+}
+
+.profile-picture {
+    border-radius: 9000px;
+    width: 100%;
+    border: 2px solid #00e1ff81;
+}
+
+.side-info button{
+    background-color: #00e1ff81;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
+.second-info{
+    display: flex;
+    justify-content: space-around;
+}
+.second-info p{
+    margin: 0px;
+}
+
+hr{
+    border: 1px solid #00e1ff81;
+}
+
+.instructions {
+    color: white;
+}
+
+.loading-div {
+    text-align: center;
+}
+.loadingGif {
+    border-radius: 0px;
+    height: 50px;
+    margin: 20px;
+}

@@ -1,0 +1,22 @@
+/* Universal styling */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  outline: none;
+  transition: all 0.1s ease;
+}
+/* HTML body styling */
+body {
+  background-color: rgb(31, 160, 224);
+}
+/* App body styling */
+.App {
+  background-color: rgb(223, 16, 33);
+  margin: auto;
+  width: 50%;
+  min-width: 600px;
+  padding: 10px;
+  text-align: center;
+}
+
