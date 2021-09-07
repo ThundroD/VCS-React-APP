@@ -10,7 +10,7 @@ Save contents do desired location. Open cmd in current dir. Type ```npm install`
 
 Open cmd in current location and type ```npm start```.
 
-CD into ```vsc-react-app``` and npm intall then ```npm start``` and the react app should start.
+CD into ```vsc-react-app``` and ```npm intall``` then ```npm start``` and the react app should start.
 
 
 ## GET User Info
